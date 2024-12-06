@@ -1,0 +1,2 @@
+# Chess-Borad
+Simple Method
